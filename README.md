@@ -1,2 +1,2 @@
-# design_pattern
+# design-pattern
 Design pattern note
